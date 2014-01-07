@@ -1,0 +1,9 @@
+Zeitslots: 22,67 uS => 44,11 Hz pro Sample
+512 Teilnehmer im DMX Netz
+
+Datei Aufbau:
+Pro Zeile 512 Bytes, pro Empfänger ein Byte
+Jede Zeile entspricht einem Zeitslot
+
+Größen:
+10 min = 13,55 Mb
